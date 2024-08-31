@@ -24,10 +24,10 @@
 
 - [x] [From P5 to P2 to 100 BXSS](https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82) 
 - [x] [Google Acquisition XSS (Apigee)](https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4) 
-- [XSS on Microsoft.com via Angular Js template injection](https://medium.com/@impratikdabhi/reflected-xss-on-microsoft-com-via-angular-template-injection-2e26d80a7fd8)
+- [x] [XSS on Microsoft.com via Angular Js template injection](https://medium.com/@impratikdabhi/reflected-xss-on-microsoft-com-via-angular-template-injection-2e26d80a7fd8)
 - [Researching Polymorphic Images for XSS on Google Scholar](https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html)
-- [Netflix Party Simple XSS](https://medium.com/@kristian.balog/netflix-party-simple-xss-ec92ed1d7e18)
-- [Stored XSS in google nest](https://medium.com/bugbountywriteup/stored-xss-in-google-nest-a82373bbda68)
+- [x] [Netflix Party Simple XSS](https://medium.com/@kristian.balog/netflix-party-simple-xss-ec92ed1d7e18)
+- [x] [Stored XSS in google nest](https://medium.com/bugbountywriteup/stored-xss-in-google-nest-a82373bbda68)
 - [Self XSS to persistent XSS on login portal](https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0)
 - [Universal XSS affecting Firefox ](https://0x65.dev/blog/2020-03-30/cve-2019-17004-semi-universal-xss-affecting-firefox-for-ios.html)
 - [XSS WAF Character limitation bypass like a boss](https://medium.com/bugbountywriteup/xss-waf-character-limitation-bypass-like-a-boss-2c788647c229)
